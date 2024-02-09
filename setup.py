@@ -19,9 +19,9 @@ setup(
     author="Dyke Ferber",
     author_email="dykeferber@gmail.com",
     install_requires=[
-        "openai-1.12.0",
-        "tenacity-8.2.3",
-        "fire-0.5.0",
-        "termcolor-2.4.0",
+        "openai=1.12.0",
+        "tenacity=8.2.3",
+        "fire=0.5.0",
+        "termcolor=2.4.0",
     ],
 )
