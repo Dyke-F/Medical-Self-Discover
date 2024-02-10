@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="med-self-discover",
-    version="0.1.2",
+    version="0.1.3",
     license="MIT",
     description="""
         Implementation of the Code from the Paper SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures,
