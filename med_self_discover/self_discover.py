@@ -5,7 +5,7 @@ import fire
 from openai import OpenAI
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
-from modules import MEDICAL_REASONING_MODULES, REASONING_MODULES
+from .modules import MEDICAL_REASONING_MODULES, REASONING_MODULES
 
 
 client = OpenAI()
