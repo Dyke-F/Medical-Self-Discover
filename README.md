@@ -15,7 +15,7 @@ $ git clone https://github.com/Dyke-F/medical-self-discover.git
 Make sure to create an .env file with your API key in the root directory.
 
 
-Alternative, install from source:
+Alternatively, install from source:
 ```shell
 $ pip install medical-self-discover
 ```
