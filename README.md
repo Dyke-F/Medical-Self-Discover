@@ -5,7 +5,7 @@ Implementation of the Paper [SELF-DISCOVER: Large Language Models Self-Compose R
 
 ## Install
 
-To install Medical Self-Discover, run the following command in your terminal:
+To install and modify Medical Self-Discover, run the following command in your terminal:
 
 
 ```shell
@@ -15,7 +15,7 @@ $ git clone https://github.com/Dyke-F/medical-self-discover.git
 Make sure to create an .env file with your API key in the root directory.
 
 
-Alternatively, install from source:
+Alternatively - if you only want to use inference without making changes to the defaults, install from source:
 ```shell
 $ pip install medical-self-discover
 ```
